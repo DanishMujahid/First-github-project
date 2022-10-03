@@ -1,0 +1,22 @@
+body {
+    background-color:rgb(0,0,255);
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    background-color: black;
+    color: red;  
+}
+
+button{
+  border-radius: 10px;
+  background: black;
+  padding: 1px;
+  width: 40px;
+  height: 40px;
+}
